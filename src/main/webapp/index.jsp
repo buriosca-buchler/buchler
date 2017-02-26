@@ -26,6 +26,7 @@ System.out.println("index.jsp.ds: " + ds);
 	<title>Burios.CZ - Buchler 2017</title>
 </head>
 <body>
-	index.jsp.dsxxx:<%=ds%>
+	<div>Burios.CZ - Buchler 2017</div>
+	<div>index.jsp.ds:&nbsp;<%=ds.getConnection()%></div>
 </body>
 </html>

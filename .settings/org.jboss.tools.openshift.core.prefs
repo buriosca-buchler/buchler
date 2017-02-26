@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://buriosca-buchler@console.preview.openshift.com
+org.jboss.tools.openshift.DeployProject=buchler
+org.jboss.tools.openshift.PodPath=
+org.jboss.tools.openshift.Service=burios-4@buchler
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/buchler}
