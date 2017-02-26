@@ -47,6 +47,8 @@ public class StartUp extends HttpServlet {
 				}
 			}
 			System.out.println("StartUp.init().ds: " + ds);
+			
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
